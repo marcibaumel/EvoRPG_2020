@@ -310,3 +310,4 @@ D:\WORK\demosfian\IDE\EvoRPGDemo\obj\Debug\EvoRPGDemo.csproj.CoreCompileInputs.c
 D:\WORK\demosfian\IDE\EvoRPGDemo\obj\Debug\EvoRPGDemo.csproj.CopyComplete
 D:\WORK\demosfian\IDE\EvoRPGDemo\obj\Debug\EvoRPGDemo.exe
 D:\WORK\demosfian\IDE\EvoRPGDemo\obj\Debug\EvoRPGDemo.pdb
+D:\WORK\EGYETEM\2 FÉLÉV\EvoRPG_2020\EvoRPG_2020\EvoRPGDemo\obj\Debug\Pages\Dialogs\Castel\Map1\Dialoge1_9.g.cs
