@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\marci\Documents\GitHub\EvoRPG_2020\EvoRPGDemo\obj\Release\
+C:\Users\marci\Documents\GitHub\EvoRPG_2020\EvoRPGDemo\obj\Debug\
 EvoRPGDemo
 none
 false
-TRACE
+DEBUG;TRACE
 C:\Users\marci\Documents\GitHub\EvoRPG_2020\EvoRPGDemo\App.xaml
 2881611920
 31819511526
