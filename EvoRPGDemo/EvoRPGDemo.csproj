@@ -91,196 +91,196 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_0.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_0.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_1.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_10.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_10.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_2.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_3.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_4.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_4.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_5.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_5.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_6.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_6.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_7.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_7.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_8.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_8.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge1_9.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge1_9.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge2_0.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge2_0.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge2_1.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge2_1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Dialogs\Castel\Map1\Dialoge3_0.xaml">
+    <Page Include="Views\Dialogs\Castel\Map1\Dialoge3_0.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\FightSytem\Fight0_1.xaml">
+    <Page Include="Views\FightSytem\Fight0_1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\FightSytem\Fight1_1.xaml">
+    <Page Include="Views\FightSytem\Fight1_1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\FightSytem\Fight1_2.xaml">
+    <Page Include="Views\FightSytem\Fight1_2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\FightSytem\Fight1_3.xaml">
+    <Page Include="Views\FightSytem\Fight1_3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\FightSytem\ItemsPage.xaml">
+    <Page Include="Views\FightSytem\ItemsPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\Map\Castel\Map1_0.xaml">
+    <Page Include="Views\Map\Castel\Map1_0.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\Map\Castel\Map1_1.xaml">
+    <Page Include="Views\Map\Castel\Map1_1.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\Map\Castel\Map1_2.xaml">
+    <Page Include="Views\Map\Castel\Map1_2.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\Map\Castel\Map1_3.xaml">
+    <Page Include="Views\Map\Castel\Map1_3.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\MENU\Creat.xaml">
+    <Page Include="Views\MENU\Creat.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\MENU\Intro.xaml">
+    <Page Include="Views\MENU\Intro.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\MENU\Menu.xaml">
+    <Page Include="Views\MENU\Menu.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Pages\MENU\Outro.xaml">
+    <Page Include="Views\MENU\Outro.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_0.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_0.xaml.cs">
       <DependentUpon>Dialoge1_0.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_1.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_1.xaml.cs">
       <DependentUpon>Dialoge1_1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_10.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_10.xaml.cs">
       <DependentUpon>Dialoge1_10.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_2.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_2.xaml.cs">
       <DependentUpon>Dialoge1_2.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_3.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_3.xaml.cs">
       <DependentUpon>Dialoge1_3.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_4.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_4.xaml.cs">
       <DependentUpon>Dialoge1_4.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_5.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_5.xaml.cs">
       <DependentUpon>Dialoge1_5.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_6.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_6.xaml.cs">
       <DependentUpon>Dialoge1_6.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_7.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_7.xaml.cs">
       <DependentUpon>Dialoge1_7.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_8.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_8.xaml.cs">
       <DependentUpon>Dialoge1_8.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge1_9.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_9.xaml.cs">
       <DependentUpon>Dialoge1_9.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge2_0.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge2_0.xaml.cs">
       <DependentUpon>Dialoge2_0.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge2_1.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge2_1.xaml.cs">
       <DependentUpon>Dialoge2_1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Dialogs\Castel\Map1\Dialoge3_0.xaml.cs">
+    <Compile Include="Views\Dialogs\Castel\Map1\Dialoge3_0.xaml.cs">
       <DependentUpon>Dialoge3_0.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\FightSytem\Fight0_1.xaml.cs">
+    <Compile Include="Views\FightSytem\Fight0_1.xaml.cs">
       <DependentUpon>Fight0_1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\FightSytem\Fight1_1.xaml.cs">
+    <Compile Include="Views\FightSytem\Fight1_1.xaml.cs">
       <DependentUpon>Fight1_1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\FightSytem\Fight1_2.xaml.cs">
+    <Compile Include="Views\FightSytem\Fight1_2.xaml.cs">
       <DependentUpon>Fight1_2.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\FightSytem\Fight1_3.xaml.cs">
+    <Compile Include="Views\FightSytem\Fight1_3.xaml.cs">
       <DependentUpon>Fight1_3.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\FightSytem\ItemsPage.xaml.cs">
+    <Compile Include="Views\FightSytem\ItemsPage.xaml.cs">
       <DependentUpon>ItemsPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\FightSytem\MintaPlayer.cs" />
-    <Compile Include="Pages\Map\Castel\Map1_0.xaml.cs">
+    <Compile Include="Views\FightSytem\MintaPlayer.cs" />
+    <Compile Include="Views\Map\Castel\Map1_0.xaml.cs">
       <DependentUpon>Map1_0.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Map\Castel\Map1_1.xaml.cs">
+    <Compile Include="Views\Map\Castel\Map1_1.xaml.cs">
       <DependentUpon>Map1_1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Map\Castel\Map1_2.xaml.cs">
+    <Compile Include="Views\Map\Castel\Map1_2.xaml.cs">
       <DependentUpon>Map1_2.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\Map\Castel\Map1_3.xaml.cs">
+    <Compile Include="Views\Map\Castel\Map1_3.xaml.cs">
       <DependentUpon>Map1_3.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\MENU\Creat.xaml.cs">
+    <Compile Include="Views\MENU\Creat.xaml.cs">
       <DependentUpon>Creat.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\MENU\Intro.xaml.cs">
+    <Compile Include="Views\MENU\Intro.xaml.cs">
       <DependentUpon>Intro.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\MENU\Menu.xaml.cs">
+    <Compile Include="Views\MENU\Menu.xaml.cs">
       <DependentUpon>Menu.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\MENU\Outro.xaml.cs">
+    <Compile Include="Views\MENU\Outro.xaml.cs">
       <DependentUpon>Outro.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -310,6 +310,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Concepts\FightSytem\ConceptFightSystem.png" />
     <Content Include="Resource\MenuIMG\introreal.wmv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -320,25 +321,25 @@
     <Resource Include="Resource\swordButton.png" />
     <Resource Include="Resource\realsword.png" />
     <Resource Include="Resource\sword.png" />
-    <Resource Include="Pages\FightSytem\alap.jpg" />
-    <Resource Include="Pages\FightSytem\popeye.png" />
-    <Resource Include="Pages\FightSytem\happy.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_10.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_9.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_8.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_7.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_6.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_5.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_4.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_3.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_2.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_1.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\Room0.JPG" />
-    <Resource Include="Pages\Dialogs\nextButton.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img0_0.jpg" />
+    <Resource Include="Views\FightSytem\alap.jpg" />
+    <Resource Include="Views\FightSytem\popeye.png" />
+    <Resource Include="Views\FightSytem\happy.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_10.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_9.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_8.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_7.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_6.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_5.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_4.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_3.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_2.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_1.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\Room0.JPG" />
+    <Resource Include="Views\Dialogs\nextButton.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img0_0.jpg" />
     <Resource Include="My+dog+is+a+ing+retard+stupid++eats+without+_5f35da0acdc9b93a9da8dfaada0448c9.png" />
-    <Resource Include="Pages\Map\Castel\Room0.JPG" />
-    <Resource Include="Pages\MENU\free-fantasy-world-wallpaper-31953-32689-hd-wallpapers.jpg" />
+    <Resource Include="Views\Map\Castel\Room0.JPG" />
+    <Resource Include="Views\MENU\free-fantasy-world-wallpaper-31953-32689-hd-wallpapers.jpg" />
     <Resource Include="Resource\Dialogs\Map0\img0_0.jpg" />
     <Resource Include="Resource\Dialogs\Map0\img0_1.jpg" />
     <Resource Include="Resource\Dialogs\Map0\img0_10.jpg" />
@@ -363,49 +364,50 @@
     <Resource Include="Resource\FightSystemIMG\popeye.png" />
     <Resource Include="Resource\MapsIMG\Room0.JPG" />
     <Resource Include="Resource\MenuIMG\free-fantasy-world-wallpaper-31953-32689-hd-wallpapers.jpg" />
-    <Resource Include="Pages\Map\Castel\sword.png" />
+    <Resource Include="Views\Map\Castel\sword.png" />
     <Resource Include="Resource\Dialogs\Map1\img1_0.jpg" />
     <Resource Include="Resource\Dialogs\Map1\img1_1.jpg" />
     <Resource Include="Resource\Dialogs\Map2\map2_0.jpg" />
-    <Resource Include="Pages\Map\Castel\realsword.png" />
-    <Resource Include="Pages\Map\Castel\swordButton.png" />
+    <Resource Include="Views\Map\Castel\realsword.png" />
+    <Resource Include="Views\Map\Castel\swordButton.png" />
     <Resource Include="Resource\Characters\playerreal.png" />
-    <Resource Include="Pages\FightSytem\playerreal.png" />
+    <Resource Include="Views\FightSytem\playerreal.png" />
     <Resource Include="Resource\Characters\dragon.png" />
     <Resource Include="Resource\Characters\ork.png" />
-    <Resource Include="Pages\FightSytem\ork.png" />
+    <Resource Include="Views\FightSytem\ork.png" />
     <Resource Include="Resource\bigheal.png" />
     <Resource Include="Resource\littleheal.png" />
-    <Resource Include="Pages\FightSytem\littleheal.png" />
-    <Resource Include="Pages\FightSytem\bigheal.png" />
-    <Resource Include="Pages\FightSytem\dragon.png" />
+    <Resource Include="Views\FightSytem\littleheal.png" />
+    <Resource Include="Views\FightSytem\bigheal.png" />
+    <Resource Include="Views\FightSytem\dragon.png" />
     <Resource Include="Resource\Characters\ghost.png" />
-    <Resource Include="Pages\FightSytem\ghost.png" />
+    <Resource Include="Views\FightSytem\ghost.png" />
     <Resource Include="Resource\MapsIMG\Room1.png" />
     <Resource Include="Resource\MapsIMG\Room2.png" />
     <Resource Include="Resource\MapsIMG\Room3.png" />
-    <Resource Include="Pages\Map\Castel\Room1.png" />
-    <Resource Include="Pages\Map\Castel\Room2.png" />
-    <Resource Include="Pages\Map\Castel\Room3.png" />
-    <Resource Include="Pages\Map\Castel\playerreal.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\Room1.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img1_0.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\img1_1.jpg" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\Room2.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\map2_0.jpg" />
-    <Resource Include="Pages\MENU\nextButton.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\nextButton.png" />
+    <Resource Include="Views\Map\Castel\Room1.png" />
+    <Resource Include="Views\Map\Castel\Room2.png" />
+    <Resource Include="Views\Map\Castel\Room3.png" />
+    <Resource Include="Views\Map\Castel\playerreal.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\Room1.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img1_0.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\img1_1.jpg" />
+    <Resource Include="Views\Dialogs\Castel\Map1\Room2.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\map2_0.jpg" />
+    <Resource Include="Views\MENU\nextButton.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\nextButton.png" />
     <Resource Include="Resource\MapsIMG\Room0Real.png" />
-    <Resource Include="Pages\Map\Castel\Room0Real.png" />
-    <Resource Include="Pages\Dialogs\Castel\Map1\Room0Real.png" />
+    <Resource Include="Views\Map\Castel\Room0Real.png" />
+    <Resource Include="Views\Dialogs\Castel\Map1\Room0Real.png" />
     <Content Include="Resource\MenuIMG\Intro.wmv" />
     <Resource Include="Resource\MenuIMG\My+dog+is+a+ing+retard+stupid++eats+without+_5f35da0acdc9b93a9da8dfaada0448c9.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Pages\Dialogs\Castel\Map2\" />
-    <Folder Include="Pages\Dialogs\Castel\Map3\" />
-    <Folder Include="Pages\Dialogs\Castel\Map4\" />
+    <Folder Include="Models\FightSystem\" />
     <Folder Include="Resource\Dialogs\Map3\" />
+    <Folder Include="Views\Dialogs\Castel\Map2\" />
+    <Folder Include="Views\Dialogs\Castel\Map3\" />
+    <Folder Include="Views\Dialogs\Castel\Map4\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
