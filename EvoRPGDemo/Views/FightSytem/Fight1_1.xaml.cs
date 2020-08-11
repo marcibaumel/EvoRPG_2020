@@ -1,7 +1,7 @@
 ﻿using EvoRPG.Classes;
 using EvoRPG.Pages.Map.Castel;
 using EvoRPGDemo.Classes.Enemys;
-using EvoRPGDemo.Pages.Dialogs.Castel.Map1;
+using EvoRPGDemo.Views.Dialogs.Castel.Map1;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +17,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace EvoRPGDemo.Pages.FightSytem
+namespace EvoRPGDemo.Views.FightSytem
 {
     
     public partial class Fight1_1 : Page
