@@ -1,0 +1,70 @@
+﻿<Page x:Class="EvoRPG.Views.Map.Castel.Map1_0"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EvoRPG.Pages.Map.Castel"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="Map1_0">
+
+    <Page.Resources>
+        <Style x:Key="BetterButton" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="Foreground" Value="Orange"/>
+            <Setter Property="FontFamily" Value="Comic Sans Ms"/>
+            <Setter Property="FontSize" Value="50"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin">
+                <Setter.Value>
+                    <Thickness Left="50"/>
+                </Setter.Value>
+            </Setter>
+
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" 
+                            BorderThickness="0"                           
+                            Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="Crimson"/>
+                                <Setter Property="Margin">
+                                    <Setter.Value>
+                                        <Thickness Left="70"/>
+                                    </Setter.Value>
+                                </Setter>
+
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Room0Real.png"/>
+        </Grid.Background>
+
+        <Button x:Name="nxtRoom" Style="{StaticResource BetterButton}" Content="     &#xD;&#xA;      " HorizontalAlignment="Left" Margin="434,10,0,0" VerticalAlignment="Top" Width="53" Height="78" Click="Button_Click" FontSize="30"/>
+        <Button x:Name="swordBtn" Style="{StaticResource BetterButton}" Content="" HorizontalAlignment="Right" Margin="0,0,88,316" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="swordBtn_Click" Width="104" Height="74" VerticalAlignment="Bottom">
+            <Button.Background>
+                <ImageBrush ImageSource="swordButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="characterBtn" Style="{StaticResource BetterButton}" Content="" HorizontalAlignment="Right" Margin="0,0,482,108" BorderBrush="{x:Null}" Foreground="{x:Null}"  Width="98" Height="144" VerticalAlignment="Bottom">
+            <Button.Background>
+                <ImageBrush ImageSource="playerreal.png"/>
+            </Button.Background>
+        </Button>
+
+
+
+    </Grid>
+</Page>

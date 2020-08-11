@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\WORK\EGYETEM\2 FÉLÉV\EvoRPG_2020\EvoRPG_2020\EvoRPGDemo\obj\Debug\
+C:\Users\marci\Documents\GitHub\EvoRPG_2020\EvoRPGDemo\obj\Debug\
 EvoRPGDemo
 none
 false
 DEBUG;TRACE
-D:\WORK\EGYETEM\2 FÉLÉV\EvoRPG_2020\EvoRPG_2020\EvoRPGDemo\App.xaml
-2881611920
+C:\Users\marci\Documents\GitHub\EvoRPG_2020\EvoRPGDemo\App.xaml
+28-1413882274
 31819511526
-461562498379
-1211133763055
-MainWindow.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_0.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_1.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_10.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_2.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_3.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_4.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_5.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_6.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_7.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_8.xaml;Pages\Dialogs\Castel\Map1\Dialoge1_9.xaml;Pages\Dialogs\Castel\Map1\Dialoge2_0.xaml;Pages\Dialogs\Castel\Map1\Dialoge2_1.xaml;Pages\Dialogs\Castel\Map1\Dialoge3_0.xaml;Pages\FightSytem\Fight0_1.xaml;Pages\FightSytem\Fight1_1.xaml;Pages\FightSytem\Fight1_2.xaml;Pages\FightSytem\Fight1_3.xaml;Pages\FightSytem\ItemsPage.xaml;Pages\Map\Castel\Map1_0.xaml;Pages\Map\Castel\Map1_1.xaml;Pages\Map\Castel\Map1_2.xaml;Pages\Map\Castel\Map1_3.xaml;Pages\MENU\Creat.xaml;Pages\MENU\Intro.xaml;Pages\MENU\Menu.xaml;Pages\MENU\Outro.xaml;
+46664900269
+121-1942068540
+MainWindow.xaml;Views\Dialogs\Castel\Map1\Dialoge1_0.xaml;Views\Dialogs\Castel\Map1\Dialoge1_1.xaml;Views\Dialogs\Castel\Map1\Dialoge1_10.xaml;Views\Dialogs\Castel\Map1\Dialoge1_2.xaml;Views\Dialogs\Castel\Map1\Dialoge1_3.xaml;Views\Dialogs\Castel\Map1\Dialoge1_4.xaml;Views\Dialogs\Castel\Map1\Dialoge1_5.xaml;Views\Dialogs\Castel\Map1\Dialoge1_6.xaml;Views\Dialogs\Castel\Map1\Dialoge1_7.xaml;Views\Dialogs\Castel\Map1\Dialoge1_8.xaml;Views\Dialogs\Castel\Map1\Dialoge1_9.xaml;Views\Dialogs\Castel\Map1\Dialoge2_0.xaml;Views\Dialogs\Castel\Map1\Dialoge2_1.xaml;Views\Dialogs\Castel\Map1\Dialoge3_0.xaml;Views\FightSytem\Fight0_1.xaml;Views\FightSytem\Fight1_1.xaml;Views\FightSytem\Fight1_2.xaml;Views\FightSytem\Fight1_3.xaml;Views\FightSytem\ItemsPage.xaml;Views\Map\Castel\Map1_0.xaml;Views\Map\Castel\Map1_1.xaml;Views\Map\Castel\Map1_2.xaml;Views\Map\Castel\Map1_3.xaml;Views\MENU\Creat.xaml;Views\MENU\Intro.xaml;Views\MENU\Menu.xaml;Views\MENU\Outro.xaml;
 
 True
 
