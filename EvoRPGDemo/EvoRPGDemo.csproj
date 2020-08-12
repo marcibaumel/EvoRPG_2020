@@ -24,6 +24,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,6 +34,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CsvHelper, Version=15.0.0.0, Culture=neutral, PublicKeyToken=8c4959082be5c823, processorArchitecture=MSIL">
@@ -81,6 +83,7 @@
     <Compile Include="Models\Enemys\Ghost.cs" />
     <Compile Include="Models\Enemys\Ork.cs" />
     <Compile Include="Models\Enemys\Troll.cs" />
+    <Compile Include="Models\FightSystem\FightSystem.cs" />
     <Compile Include="Models\Inventory\Inventory.cs" />
     <Compile Include="Models\IOHelper.cs" />
     <Compile Include="Models\Items\HealthPotion.cs" />
@@ -403,7 +406,6 @@
     <Resource Include="Resource\MenuIMG\My+dog+is+a+ing+retard+stupid++eats+without+_5f35da0acdc9b93a9da8dfaada0448c9.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\FightSystem\" />
     <Folder Include="Resource\Dialogs\Map3\" />
     <Folder Include="Views\Dialogs\Castel\Map2\" />
     <Folder Include="Views\Dialogs\Castel\Map3\" />
