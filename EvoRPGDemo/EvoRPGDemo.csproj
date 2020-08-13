@@ -84,7 +84,6 @@
     <Compile Include="Models\Enemys\Ork.cs" />
     <Compile Include="Models\Enemys\Troll.cs" />
     <Compile Include="Models\FightSystem\FightSystem.cs" />
-    <Compile Include="Models\FightSystem\IFightSystem.cs" />
     <Compile Include="Models\Inventory\Inventory.cs" />
     <Compile Include="Models\IOHelper.cs" />
     <Compile Include="Models\Items\HealthPotion.cs" />
@@ -205,6 +204,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\PlayerConverter.cs" />
     <Compile Include="Views\Dialogs\Castel\Map1\Dialoge1_0.xaml.cs">
       <DependentUpon>Dialoge1_0.xaml</DependentUpon>
     </Compile>

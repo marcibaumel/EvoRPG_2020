@@ -1,5 +1,6 @@
 ﻿using EvoRPG.Classes;
 using EvoRPG.Classes.Enemys;
+using EvoRPG.Models;
 using EvoRPG.Pages.Map.Castel;
 using EvoRPGDemo.Classes.Enemys;
 using EvoRPGDemo.Pages.Dialogs.Castel.Map1;
@@ -18,13 +19,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace EvoRPGDemo.Pages.FightSytem
+namespace EvoRPGDemo.Views.FightSytem
 {
     
     public partial class Fight1_2 : Page
     {
         private int allDMG = 0;
-
         Player player;
         Ghost enemy;
         public Fight1_2()

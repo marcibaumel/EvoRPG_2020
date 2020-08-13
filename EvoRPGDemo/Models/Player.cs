@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EvoRPG.Classes
+namespace EvoRPG.Models
 {
     public class Player
     {
@@ -52,10 +52,13 @@ namespace EvoRPG.Classes
             MaxMana = this.MaxMana;
         }
 
+        /*
         public override string ToString()
         {
             return "Name: " + Name + ", Class: " + Class + ", Gender: " + Gender + ", HP: " + Health + ", DMG: " + Attack + ", Manna: " + Manna;
         }
+        */
+        /*
         public Player()
         {
             Class = "Human";
@@ -88,5 +91,6 @@ namespace EvoRPG.Classes
             this.Gender = Gender;
             this.Name = Name;
         }
+        */
     }
 }
