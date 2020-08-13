@@ -1,7 +1,8 @@
 ﻿using CsvHelper;
 using EvoRPG.Classes;
-using EvoRPG.Pages.Map.Castel;
-using EvoRPGDemo.Pages.MENU;
+using EvoRPG.Models;
+using EvoRPG.Views.Map.Castel;
+using EvoRPGDemo.Views.MENU;
 using System;
 using System.Collections.Generic;
 using System.Globalization;

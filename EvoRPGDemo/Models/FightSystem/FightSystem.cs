@@ -8,6 +8,16 @@ namespace EvoRPGDemo.Models.FightSystem
 {
     class FightSystem
     { 
+        void attackCounter()
+        {
+
+        }
+
+        void attackPhase()
+        {
+
+        }
+
 
     }
 }
