@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace EvoRPGDemo.Models.FightSystem
 {
-    class FightSystem: IFightSystem
-    {
-      
+    class FightSystem
+    { 
 
-        void IFightSystem.Attack1()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

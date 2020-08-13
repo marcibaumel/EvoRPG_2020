@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace EvoRPGDemo.Pages.Dialogs.Castel.Map1
+namespace EvoRPGDemo.Views.Dialogs.Castel.Map1
 {
     /// <summary>
     /// Interaction logic for Dialoge1_0.xaml

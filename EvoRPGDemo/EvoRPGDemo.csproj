@@ -84,6 +84,7 @@
     <Compile Include="Models\Enemys\Ork.cs" />
     <Compile Include="Models\Enemys\Troll.cs" />
     <Compile Include="Models\FightSystem\FightSystem.cs" />
+    <Compile Include="Models\FightSystem\IFightSystem.cs" />
     <Compile Include="Models\Inventory\Inventory.cs" />
     <Compile Include="Models\IOHelper.cs" />
     <Compile Include="Models\Items\HealthPotion.cs" />
