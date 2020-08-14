@@ -52,13 +52,15 @@ namespace EvoRPG.Models
             MaxMana = this.MaxMana;
         }
 
+       
+
         /*
         public override string ToString()
         {
             return "Name: " + Name + ", Class: " + Class + ", Gender: " + Gender + ", HP: " + Health + ", DMG: " + Attack + ", Manna: " + Manna;
         }
         */
-        /*
+        
         public Player()
         {
             Class = "Human";
@@ -91,6 +93,6 @@ namespace EvoRPG.Models
             this.Gender = Gender;
             this.Name = Name;
         }
-        */
+        
     }
 }

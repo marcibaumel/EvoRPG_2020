@@ -1,6 +1,7 @@
 ﻿using EvoRPG.Pages.Map.Castel;
 using EvoRPGDemo;
 using EvoRPGDemo.Pages.Dialogs.Castel.Map1;
+using EvoRPGDemo.Views.Dialogs.Castel.Map1;
 using System;
 using System.Collections.Generic;
 using System.IO;
