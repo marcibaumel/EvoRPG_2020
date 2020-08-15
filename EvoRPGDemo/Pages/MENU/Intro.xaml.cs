@@ -32,8 +32,8 @@ namespace EvoRPG.Pages.MENU
 
             InitializeComponent();
             Inntro.DataContext = this;
-            
-            
+         
+
         }
 
         private string creatAbsoultPath(string path)
